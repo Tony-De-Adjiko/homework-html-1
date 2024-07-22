@@ -1,0 +1,11 @@
+@media screen and (max-width: 480px){
+    section {
+        flex-direction: column; gap: 1vh;
+    }
+    div:first-child{
+        height: 78vh; width: 100vw
+    }
+    div:last-child{
+        height: 10vh; width: 100vw
+    }
+}

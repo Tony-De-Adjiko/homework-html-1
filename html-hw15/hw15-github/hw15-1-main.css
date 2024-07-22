@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header, div, section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+header, div{
+    background: #acabab;
+    border: 2px solid #898989;
+    border-radius: 20px;
+
+}
+header{
+    height: 10vh;
+}
+section{
+    margin-top: 1vh; gap: 0.4vw
+}
+div{
+    height: 89vh
+}
+div:first-child{
+    width: 70vw
+}
+div:last-child{
+    width: 29.6vw
+}

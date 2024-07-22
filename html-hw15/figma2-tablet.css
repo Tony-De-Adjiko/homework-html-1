@@ -1,0 +1,19 @@
+@media screen and (min-width: 480px) and (max-width: 900px){
+    main{
+        width: 100%;
+        height: 521px;
+        margin:48px 24px ;
+    }
+    .main1{
+        width: 90vw;
+        height:224px ;
+    }
+    .main2{
+        width: 720px;
+        height:224px ;
+    }
+    .t{
+        width: 348px;
+        height: 224px;
+    }
+}

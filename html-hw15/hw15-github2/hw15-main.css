@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div, header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header, .b, .c, .f{
+    background: #d4d4d4;
+    border: 2px solid #bebebe;
+    border-radius: 10px;
+}
+header, .b{height: 30vh; margin-bottom: 5vh}
+.top{gap: 3vw}
+.stable{
+    flex-direction: column;
+    width: 69vw;
+}
+.stable>div:last-child{width: 100%; justify-content: space-between}
+.b{width: 100%}
+.c{width: 30%; height: 30vh}
+.f{width: 28vw; height: 65vh}
+p{font-size: 40px}
