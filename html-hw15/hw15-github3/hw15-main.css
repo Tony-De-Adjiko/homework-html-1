@@ -15,14 +15,14 @@ ul{
 li{
     width: 200px;
     height: 8vh;
-    background: blue;
+    background: #7eb9e3;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 a{text-decoration: none}
 .top{
-    background: blue;
+    background: #7eb9e3;
     height: 40vh;
     margin:1vh 0 ;
     text-align: right;
@@ -40,7 +40,7 @@ a{text-decoration: none}
     text-align: right;
     padding: 10px;
     width: 49vw;
-    background: blue;
+    background: #7eb9e3;
     margin-bottom: 1vh;
 }
 footer{
@@ -48,5 +48,5 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: blue;
+    background: #7eb9e3;
 }
